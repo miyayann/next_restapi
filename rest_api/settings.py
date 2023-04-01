@@ -58,7 +58,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    "http://localhost:3000",  "https://blog-todos-beta.vercel.app"
+    "http://localhost:3000",  "https://blog-todos-1socybdab-miyayann.vercel.app"
 ]
 SIMPLE_JWT = {
     'AUTH_HEADER_TYPES': ('JWT',),
